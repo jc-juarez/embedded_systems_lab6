@@ -2,7 +2,7 @@
  * main.c
  *
  * Created: 01/11/2017 08:47:35 p. m.
- *  Author: L00254193
+ *  Authors: Embedded Systems Team
  */ 
 
 #include "sam.h"
